@@ -1,3 +1,4 @@
+    
 package com.hetfieldh.workshopmongo;
 
 import org.springframework.boot.SpringApplication;
@@ -9,5 +10,4 @@ public class WorkshopmongoApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(WorkshopmongoApplication.class, args);
 	}
-
 }
